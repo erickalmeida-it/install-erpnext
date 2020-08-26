@@ -18,4 +18,4 @@ Execute-o:
 
 Siga os passos interativos e leia atentamente cada um deles!!
 
-- O Servidor reiniciará após o final do script.
+* O Servidor reiniciará após o final da execução do script.
